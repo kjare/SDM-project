@@ -12,5 +12,6 @@ int main()
 	cout<<&c<<endl;
 	c=20;
 	cout<<a<<b<<c;
+ cout<<"yash";
 	
 }
