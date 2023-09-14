@@ -20,9 +20,9 @@ Student login credentials would be confidential as they will be encrypted.
 Candidates won’t be able to leave exam window otherwise they will get log out automatically.
 
 ## Definition:
-OCE : Online Cdac examination
-Portal : Centralized online web based examination system.
-Dashboard: Student profile 
+	OCE : Online Cdac examination
+	Portal : Centralized online web based examination system.
+	Dashboard: Student profile 
 
 ## Non Functional Requirements:
 
