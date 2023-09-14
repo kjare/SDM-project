@@ -15,7 +15,7 @@ OCE : Online Cdac examination
 Portal : Centralized online web based examination system.
 Dashboard: Student profile 
 
-## Non functional:
+## Non Functional Requirements:
 
 ### Security: 
 Login credential of every student is confidential. The system is tamperproof means nobody unauthorized cannot access information of system.
