@@ -5,7 +5,12 @@ System Requirement Specification for Cdac Online Examination Portal.
 Students, Administrators, faculty, director, exam co-coordinator
 
 ## Objective:
-	Now days, online exam system are web based examination system. The system will provide evaluation of student. I will show accurate result. It will reduce time and effort as compared to physical mode of examination. It will need less manpower and reduce paper work.
+	
+Now days, online exam system are web based examination system.
+The system will provide evaluation of student. 
+I will show accurate result. 
+It will reduce time and effort as compared to physical mode of examination. 
+It will need less manpower and reduce paper work.
 
 ## Scope:
 	You get instant result as soon as student completes their exam. Cheating is prevented as the questions are shuffled by server for each candidate. Student login credentials would be confidential as they will be encrypted. Candidates won’t be able to leave exam window otherwise they will get log out automatically.
