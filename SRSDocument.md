@@ -20,9 +20,9 @@ Student login credentials would be confidential as they will be encrypted.
 Candidates won’t be able to leave exam window otherwise they will get log out automatically.
 
 ## Definitions:
-	Portal: Peronalized Online Web Application
+	Portal: Centralized online web based examination system
 	OCM: Online Cdac Examinations
-	Dashboard: Personalized information presented using  BI techniques such grid, score card, graph, KPI
+	Dashboard: Student profile 
 
 ## Non Functional Requirements:
 
