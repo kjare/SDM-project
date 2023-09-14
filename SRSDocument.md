@@ -19,10 +19,10 @@ Cheating is prevented as the questions are shuffled by server for each candidate
 Student login credentials would be confidential as they will be encrypted. 
 Candidates won’t be able to leave exam window otherwise they will get log out automatically.
 
-## Definition:
-	OCE : Online Cdac examination
-	Portal : Centralized online web based examination system.
-	Dashboard: Student profile 
+## Definitions:
+	Portal: Peronalized Online Web Application
+	OCM: Online Cdac Examinations
+	Dashboard: Personalized information presented using  BI techniques such grid, score card, graph, KPI
 
 ## Non Functional Requirements:
 
