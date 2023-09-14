@@ -1,23 +1,18 @@
 ## Title:
-System Requirement Specification for Cdac Online Examination Portal.
+System Requirement Specification for CDAC Online Examination Portal.
 
 ## Team: 
-Students, Administrators, faculty, director, exam co-coordinator
+Students, Administrators, Course faculty, Director, Exam co-ordinator. 
 
 ## Objective:
 	
-Now days, online exam system are web based examination system.
-The system will provide evaluation of student. 
-I will show accurate result. 
-It will reduce time and effort as compared to physical mode of examination. 
-It will need less manpower and reduce paper work.
+Nowadays,online exam mode of examinations are web based system. This system will basically provide evaluation students. Online exams show accurate results. It will reduce time and effort as compared to physical mode of examination and comparatively need less manpower and reduce paper work too.
 
 ## Scope:
 	
- You get instant result as soon as student completes their exam. 
 Cheating is prevented as the questions are shuffled by server for each candidate.
 Student login credentials would be confidential as they will be encrypted. 
-Candidates won’t be able to leave exam window otherwise they will get log out automatically.
+Candidates won’t be able to leave exam window otherwise they will get logged out automatically.
 
 ## Definitions:
 	Portal: Centralized online web based examination system
@@ -27,7 +22,7 @@ Candidates won’t be able to leave exam window otherwise they will get log out 
 ## Functional requirements:
 All the Students can view Registration and login screen upon visiting the exam urn. 
 Student can login into the exam portal through their correct login credentials only. 
-Instruction will be displayed on theirs screen. 
+Instruction will be displayed on their screen. 
 Timer should be kept on the top left side of the screen for students’ well awareness during the exam. 
 Student can review the previous attempted question at any time during the exam. 
 In case of incorrect password or forget password student can reset their password with the help of administrator/examiner. Administrator will be able to view Registration and login page will be displayed to screen. 
@@ -39,14 +34,14 @@ Administrator will also be able to insert, delete and modify others login creden
 Administrator will also be able to hide certain contents from other users which are confidential and are supposed to stay visible/accessible to him/her only. 
 Hershel will be having all question sets with their correct answers. Directors will be able to view progress/status of the entire ongoing examination
 
-## Non Functional Requirements:
+## Non-Functional Requirements:
 
 ### Security: 
-Login credential of every student is confidential. 
+Login credentials of every student are kept confidential. 
 The system is tamperproof means nobody unauthorized cannot access information of system.
 
 ### Accessibility:
-Only registered candidates who have their login credentials can only appear for the exam.
+Only registered candidates can appear for the exam to their respective exam centres provided by CDAC beforehand.
 
 ### Safety:
 	
@@ -54,11 +49,11 @@ Only registered candidates who have their login credentials can only appear for 
 
 ### Efficiency:
 
-The system will be efficient for students appearing for exam as it will help them to navigate from questions fatly and lag free.
+The system will be efficient for students appearing for exam as it will help them to navigate from questions lag free and with instant response time.
 
 ### Reliability:
 Question answered by students will be saved on the server.
-In case of any issue student will be able to start their exam from their last visited question.
+In case of any technical issues candidats will be able to start their exam from their last visited question with their last saved time.
 	
 
 
