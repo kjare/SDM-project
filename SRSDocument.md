@@ -24,7 +24,7 @@ Candidates won’t be able to leave exam window otherwise they will get log out 
 	OCM: Online Cdac Examinations
 	Dashboard: Student profile 
 
-##Functional requirement-
+## Functional requirement:
 All the Students can view Registration and login screen upon visiting the exam urn. 
 Student can login into the exam portal through their correct login credentials only. 
 Instruction will be displayed on theirs screen. 
