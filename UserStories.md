@@ -15,9 +15,9 @@
 15.	As the director I should be able to check the examinees submitting the exam during the exam.
 16.	As a director I should be able to see the post exam analysis such as passed and failed ratio.
 17.	As a director I should be able to check the logged in examinees and course faculty to the exam portal for their purpose and their time of sign in and sign-out. 
-As a student I want to able to view registration page so that I can register for the exam.
-As a student/candidate I want to view my dashboard so that I can see my information properly.
-As a student/candidate I want to see how many question I have attempted after submitting exam so that I can check questions that I can’t solve.
-As a student/candidate I need a forgot password option so that I don’t have any troubles in login.
-As a student/candidate I need a user friendly dashboard so that I don’t get any problem while using.
+18. As a student I want to able to view registration page so that I can register for the exam.
+19. As a student/candidate I want to view my dashboard so that I can see my information properly.
+20. As a student/candidate I want to see how many question I have attempted after submitting exam so that I can check questions that I can’t solve.
+21. As a student/candidate I need a forgot password option so that I don’t have any troubles in login.
+22. As a student/candidate I need a user friendly dashboard so that I don’t get any problem while using.
  
