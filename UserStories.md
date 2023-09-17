@@ -25,5 +25,13 @@
 23. As a student, I want to be able to get my exam schedule reminder 24hrs before exam start time, so that I get reminded of the exam again.
 24. As a student, I want to be able to login successfully on time to start the exam without any server problem as all candidates will try to login int the same duration of time,so that I can attemt my test successfully.
 25. As a student, I want to be able to see my particular course test details only ,so that I can get to attempt my course's exam only.
-26. As a student, I want to be able to see the instructions page just before starting the exam, so that I can get aware of Do's and Dont's during the exam. 
+26. As a student, I want to be able to see the instructions page just before starting the exam, so that I can get aware of Do's and Dont's during the exam.
+27. As a student, I want to be able to see the timer on the exam window, so that I can keep track of time while solving the questions.
+28. As a student, I want to be able to relogin into the exam if I get logged out automatically due to any technical difficulties, so that I can attempt exam from the last/recent visited question with respective of time.
+29. As a student, I want to be able to minimize the video proctoring tab,so that I can navigate through the exam window neatly.
+30. As a student, I want to be able to see review option for the unattempted questions, so that I can review those questions in the end without forgetting.
+31. As a student, I want to be able to go to next/previous question page after clicking on their respective options, so that I can get to visit next,previous questions.
+32. As a student, I want to be able to see the submit exam option in the end of an exam,so that I can submit all my responses/answers hassle-free.
+33. As a student, I want to be able to get the feedback window after submitting the exam,so that I can give my feedback to the overall assessment.
+34. As a student, I want to be able to see the result on the result date and time provided by CDAC officials,so that I can see my exam results.
  
